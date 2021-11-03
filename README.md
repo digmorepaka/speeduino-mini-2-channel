@@ -15,4 +15,4 @@
 * Other small form factor installations
 
 
-![alt text][speedy.jpg]
+![alt text](speedy.jpg)
